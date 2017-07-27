@@ -5,28 +5,21 @@ postHero: /images/hammerhead.jpg
 author: Me, Myself, and I
 authorTwitter: http://twitter.com/mhartl
 gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
-postFooter: Additional information, and maybe a <a href="#">link or two</a>
+postFooter: Learn more at <a href="http://www.defenders.org/sharks/basic-facts">basic facts</a>
 ---
 
-Call me *Ishmael*. Some years ago–*never mind how long
-precisely*–having little or no money in my purse, and nothing
-particular to interest me on shore, I thought I would sail about a little
-and see the watery part of the world. It is a way I have of driving off
-the spleen and regulating the circulation.
+We're gonna need a bigger *boat*.
 
-<img class="pull-left" src="http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg"/>
+<img class="pull-left" src="/images/hammerhead2.jpg"/>
 
+Sharks belong to a family of fish that have skeletons made of cartilage, a
+tissue more flexible and lighter than bone. They breathe through a series of
+five to seven gill slits located on either side of their bodies. All sharks have
+multiple rows of teeth, and while they lose teeth on a regular basis, new teeth
+continue to grow in and replace those they lose.
 
-Whenever I find myself growing grim about the mouth; whenever it is a damp,
-drizzly November in my soul; whenever I find myself involuntarily pausing
-before coffin warehouses, and bringing up the rear of every funeral I meet;
-and especially whenever my hypos get such an upper hand of me, that it
-requires a strong moral principle to prevent me from deliberately stepping
-into the street, and methodically knocking people’s hats off—then, I
-account it high time to get to sea as soon as I can. This is my substitute
-for pistol and ball.
-
-With a philosophical flourish Cato throws himself upon
-his sword; I quietly take to the ship. There is nothing surprising in this.
-If they but knew it, almost all men in their degree, some time or other,
-cherish very nearly the same feelings towards the ocean with me.
+Shark ‘skin’ is made up of a series of scales that act as an outer skeleton for
+easy movement and for saving energy in the water. The upper side of a shark is
+generally dark to blend in with the water from above and their undersides are
+white or lighter colored to blend in with the lighter surface of the sea from
+below. This helps to camouflage them from predators and prey.
