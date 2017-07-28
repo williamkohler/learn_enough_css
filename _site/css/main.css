@@ -483,7 +483,7 @@ h4 {
 .post-aside {
   background-color: rgba(0, 0, 0, 0.1);
   float: right;
-  margin 0 0 2em 2em;
+  margin: 0 0 2em 2em;
   padding: 2em;
 }
 .post .post-header{
