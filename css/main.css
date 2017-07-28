@@ -241,11 +241,25 @@ h4 {
   margin-bottom: 1.5rem;
   text-align: center;
 }
+.home-section h4 {
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+.home-section .post-header {
+  text-align: center;
+}
+.home-section .blog-posts {
+  width: 75%;
+  margin: auto;
+}
+
 .home-callout {
-  display: flex;
   align-items: center;
   background-color: #000;
   color: #fff;
+  display: flex;
+  /* added margin-bottom to help with formatting. not in tutorial*/
+  margin-bottom: 7vh;
   padding: 7vh 0;
 }
 .home-callout h3 {
@@ -264,6 +278,8 @@ h4 {
   padding: 0 3vw;
   font-size: 0.8rem;
 }
+
+
 
 
 /* SOCIAL STYLES */
