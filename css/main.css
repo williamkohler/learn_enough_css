@@ -46,19 +46,9 @@ a img {
 }
 /* END RESET*/
 
-@media (max-width: 800px) {
-  html {
-    color: #f442df;
-    box-shadow: none;
-    padding: 0;
-  }
-  .post-aside {
-    display: none;
-  }
-}
-
 /* GLOBAL STYLES */
 html {
+  /*box-shadow: 0 0 0 30px #000 inset;*/
   box-shadow: 0 0 0 30px #000 inset;
   padding: 0 30px;
 }
@@ -67,6 +57,8 @@ body {
   flex-direction: column;
   min-height: 100vh;
   font-family: helvetica, arial, sans;
+  /* test */
+  min-height: 100
 }
 .content-container {
   display: flex;
@@ -529,4 +521,14 @@ h4 {
 }
 .post-footer p {
   font-size: 0.8em;
+}
+
+@media (max-width: 800px) {
+  html {
+    box-shadow: none;
+    padding: 0;
+  }
+  .post-aside {
+    display: none;
+  }
 }
