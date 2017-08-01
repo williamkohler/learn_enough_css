@@ -46,6 +46,17 @@ a img {
 }
 /* END RESET*/
 
+@media (max-width: 800px) {
+  html {
+    color: #f442df;
+    box-shadow: none;
+    padding: 0;
+  }
+  .post-aside {
+    display: none;
+  }
+}
+
 /* GLOBAL STYLES */
 html {
   box-shadow: 0 0 0 30px #000 inset;
