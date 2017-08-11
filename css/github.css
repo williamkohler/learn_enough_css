@@ -1,6 +1,20 @@
-/* from: https://github.com/learnenough/sample_css/blob/gh-pages/css/main.css */
 
-html, body, div, span, applet, object, iframe,
+Features
+Business
+Explore
+Marketplace
+Pricing
+This repository
+Sign in or Sign up
+ Watch 0  Star 0  Fork 0 mhartl/sample_css
+ Code  Issues 1  Pull requests 0  Projects 0 Insights
+Branch: master Find file Copy pathsample_css/css/main.css
+ded0019  on Jun 15
+@mhartl mhartl Init
+1 contributor
+RawBlameHistory
+747 lines (709 sloc)  12 KB
+ html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -11,81 +25,83 @@ tbody, tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption, footer,
 header, hgroup, menu, nav, output, ruby, section,
 summary, time, mark, audio, video {
-margin: 0;
-padding: 0;
-border: 0;
-font: inherit;
-vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-display: block;
+  display: block;
 }
 body {
-line-height: 1;
+  line-height: 1;
 }
 blockquote, q {
-quotes: none;
+  quotes: none;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
-content: '';
-content: none;
+  content: '';
+  content: none;
 }
 table {
-border-collapse: collapse;
-border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 strong, b {
-font-weight: bold;
+  font-weight: bold;
 }
 em, i {
-font-style: italic;
+  font-style: italic;
 }
 a img {
-border: none;
+  border: none;
 }
 /* END RESET*/
+
+
 /* GLOBAL STYLES */
 html {
-box-shadow: 0 0 0 30px #000000 inset;
-padding: 0 30px;
+  box-shadow: 0 0 0 30px #000000 inset;
+  padding: 0 30px;
 }
 body {
-display: flex;
-flex-direction: column;
-font-family: 'Open Sans', helvetica, arial, sans;
-min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Open Sans', helvetica, arial, sans;
+  min-height: 100vh;
 }
 .site-container {
-display: flex;
-flex: 1 1 auto;
-padding-top: 10vh;
+  display: flex;
+  flex: 1 1 auto;
+  padding-top: 10vh;
 }
 h1,h2,h3,h4,h5,h6 {
-font-family: 'Raleway', helvetica, sans;
-font-weight: 100;
+  font-family: 'Raleway', helvetica, sans;
+  font-weight: 100;
 }
 h1 {
-font-size: 7vw;
-margin-top: 0;
+  font-size: 7vw;
+  margin-top: 0;
 }
 h2 {
-font-size: 2em;
+  font-size: 2em;
 }
 h2 ~ p {
-font-size: 0.8em;
-font-style: italic;
-margin: auto;
-max-width: 70%;
-padding-top: 1em;
-text-align: center;
+  font-size: 0.8em;
+  font-style: italic;
+  margin: auto;
+  max-width: 70%;
+  padding-top: 1em;
+  text-align: center;
 }
 h4 {
-color: #999;
-font-weight: bold;
-text-transform: uppercase;
+  color: #999;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 a {
   color: #6397b5;
@@ -743,3 +759,6 @@ span.drop-trigger {
     display: none;
   }
 }
+
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
