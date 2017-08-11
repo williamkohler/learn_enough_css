@@ -294,6 +294,7 @@ span.drop-trigger {
 
 }
 .hero-home {
+  /*path needs to be relative when hosted*/
   background-image: url(../images/shark.jpg);
   background-position: center top;
 }
